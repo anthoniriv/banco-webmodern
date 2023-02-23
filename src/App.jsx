@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./style";
 import {
+  NavBar,
   Hero,
   Stats,
   Business,
@@ -17,6 +18,7 @@ function App() {
     <div className="bg-primary w-full overflow-hidden">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
+          <NavBar />
         </div>
       </div>
 
