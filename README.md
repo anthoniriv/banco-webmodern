@@ -25,7 +25,5 @@
       <li>Push your changes to your forked repository</li>
       <li>Submit a pull request to the main repository</li>
     </ol>
-    <h2>Contributing</h2>
-    <p>If you would like to contribute to the Modern Bank Landing Page project, please review our <a href="CONTRIBUTING.md">contributing guidelines</a> before submitting a pull request.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the <a href="LICENSE.md">MIT License</a>.</p>
+    
+![frame](https://user-images.githubusercontent.com/84037807/220981886-2b43b769-fe5e-48de-91dc-6ff2c77781d2.jpg)
