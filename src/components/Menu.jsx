@@ -2,7 +2,7 @@ import { useState } from "react";
 import { close, logo, menu } from "../assets";
 import { navLinks } from "../constants";
 
-function NavBar() {
+function Menu() {
   const [toggle, settoggle] = useState(false);
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
@@ -12,7 +12,7 @@ function NavBar() {
           <li
             key={nav.id}
             className={`font-poppins font-normal cursor-pointer text-[16px] 
-              ${index === navLinks.length - 1 ? "mr-0" : "mr-10"} text-white`}
+                ${index === navLinks.length - 1 ? "mr-0" : "mr-10"} text-white`}
           >
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
@@ -36,7 +36,7 @@ function NavBar() {
               <li
                 key={nav.id}
                 className={`font-poppins font-normal cursor-pointer text-[16px] 
-              ${index === navLinks.length - 1 ? "mr-0" : "mb-4"} text-white`}
+                ${index === navLinks.length - 1 ? "mr-0" : "mb-4"} text-white`}
               >
                 <a href={`#${nav.id}`}>{nav.title}</a>
               </li>
@@ -45,6 +45,7 @@ function NavBar() {
         </div>
       </div>
     </nav>
-  );
+  )
 }
-export default NavBar;
+
+export default Menu;
