@@ -1,29 +1,65 @@
-<h1>Welcome to the Modern Bank Landing Page project!</h1>
-    <p>This is a sleek and modern website designed to showcase the services and offerings of a modern bank.</p>
-    <h2>Features</h2>
-    <ul>
-      <li>A clean and modern design with a professional feel</li>
-      <li>Easy navigation to quickly access different sections of the website</li>
-      <li>A responsive layout that adapts to different screen sizes and devices</li>
-      <li>Interactive features like dropdown menus and animated graphics</li>
-      <li>Informational sections on the bank's services and offerings</li>
-      <li>Contact form for customers to get in touch with the bank</li>
-    </ul>
-    <h2>Technologies Used</h2>
-    <ul>
-      <li>React</li>
-      <li>Vite</li>
-      <li>Tailwind CSS</li>
-    </ul>
-    <h2>Getting Started</h2>
-    <p>To view the Modern Bank Landing Page, simply visit the deployed website at https://anthoniriv.github.io/banco-webmodern/.</p>
-    <p>If you would like to make changes or contributions to the project, follow these steps:</p>
-    <ol>
-      <li>Fork the repository</li>
-      <li>Clone the forked repository to your local machine</li>
-      <li>Make changes or additions to the codebase</li>
-      <li>Push your changes to your forked repository</li>
-      <li>Submit a pull request to the main repository</li>
-    </ol>
-    
-![frame](https://user-images.githubusercontent.com/84037807/220981886-2b43b769-fe5e-48de-91dc-6ff2c77781d2.jpg)
+<div align="center">
+
+# 🏦 Modern Bank Landing Page
+
+**A sleek, responsive landing page for a modern bank — built with React, Vite and Tailwind CSS.**
+
+<p>
+  <a href="https://anthoniriv.github.io/banco-webmodern/"><img src="https://img.shields.io/badge/View_Live-00C853?style=for-the-badge&logo=github" alt="View Live"></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Hosted-GitHub_Pages-222222?style=flat&logo=github" alt="GitHub Pages">
+</p>
+
+</div>
+
+---
+
+## What It Is
+
+A modern, professional landing page designed to showcase a bank's services and offerings. Fully responsive with interactive elements, dropdown menus and animated graphics.
+
+## ▶️ View
+
+**[anthoniriv.github.io/banco-webmodern](https://anthoniriv.github.io/banco-webmodern/)** · [View source](https://github.com/anthoniriv/banco-webmodern)
+
+## Features
+
+- Clean, modern design with a professional feel.
+- Responsive layout for desktop and mobile.
+- Interactive dropdown menus and animated graphics.
+- Informational sections (features, clients, testimonials).
+- Contact form.
+
+## Tech
+
+| Area | Stack |
+| --- | --- |
+| UI | React 18 |
+| Build | Vite |
+| Styling | Tailwind CSS |
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build   # outputs to dist/
+```
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Anthoni Rivera](https://github.com/anthoniriv)
+
+</div>
