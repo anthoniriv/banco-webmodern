@@ -4,6 +4,8 @@
 
 **A sleek, responsive landing page for a modern bank — built with React, Vite and Tailwind CSS.**
 
+<img src="screenshot.png" alt="Modern Bank Landing screenshot" width="600">
+
 <p>
   <a href="https://anthoniriv.github.io/banco-webmodern/"><img src="https://img.shields.io/badge/View_Live-00C853?style=for-the-badge&logo=github" alt="View Live"></a>
 </p>
