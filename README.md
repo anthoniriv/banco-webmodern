@@ -16,7 +16,7 @@
       <li>Tailwind CSS</li>
     </ul>
     <h2>Getting Started</h2>
-    <p>To view the Modern Bank Landing Page, simply visit the deployed website at https://banco-webmodern.vercel.app/.</p>
+    <p>To view the Modern Bank Landing Page, simply visit the deployed website at https://anthoniriv.github.io/banco-webmodern/.</p>
     <p>If you would like to make changes or contributions to the project, follow these steps:</p>
     <ol>
       <li>Fork the repository</li>
